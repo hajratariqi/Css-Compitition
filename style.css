@@ -59,7 +59,7 @@ header button{
     gap: 60px;
 }
 .intro-heading{
-    font-size: 50px;
+    font-size: 3.5vmax;
     font-weight:600;
 }
 .content{
@@ -69,7 +69,6 @@ header button{
     font-weight: 600;
     color: black;
     font-size: 18px;
-    margin-top: 10%;
 }
 .content button{
     border: none;
