@@ -8,6 +8,7 @@ body{
 }
 /* HEADER */
 header{
+    gap: 16px;
     display: flex;
     padding: 10px;
     flex-wrap: wrap;
